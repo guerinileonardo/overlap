@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul 21 16:08:42 2020
-
-@author: leo
+Generates a random pair of oure entangled states in LPDO form and
+compares the estimation of their overlap by the quasiprob. method
+and the method by Elben et. al.
 """
 
 import numpy as np
