@@ -7,4 +7,5 @@ All code is written in Python. Here is a short summary of them:
 * [scaling_prod](https://github.com/guerinileonardo/overlap/blob/main/scaling_prod.py): calculates the sample complexity scaling of the quasiprobabilistic method for pairs of pure product states;
 * [IST_comparison](https://github.com/guerinileonardo/overlap/blob/main/IST_comparison.py): compares the performance of our method with the Improved Swap Test circuit, simulated with the LPDO paradigm within NISQ assumptions;
 * [BB_comparison](https://github.com/guerinileonardo/overlap/blob/main/BB_comparison.py): compares the performance of our method with the Bell-basis circuit, simulated with the LPDO paradigm within NISQ assumptions;
-* [direct_app_comparison](https://github.com/guerinileonardo/overlap/blob/main/direct_comparison.py): compares the performance of our method with the direct overlap estimator presented by Elben et. al.
+* [direct_ent](https://github.com/guerinileonardo/overlap/blob/main/direct_ent.py): compares the performance of our method with the direct overlap estimator presented by Elben et. al.
+* [direct_prod](https://github.com/guerinileonardo/overlap/blob/main/direct_prod.py): compares the performance of our method with the direct overlap estimator presented by Elben et. al.
