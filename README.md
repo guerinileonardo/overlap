@@ -9,3 +9,4 @@ All code is written in Python. Here is a short summary of them:
 * [BB_comparison](https://github.com/guerinileonardo/overlap/blob/main/BB_comparison.py): compares the performance of our method with the Bell-basis circuit, simulated with the LPDO paradigm within NISQ assumptions;
 * [direct_ent](https://github.com/guerinileonardo/overlap/blob/main/direct_ent.py): compares the performance of our method with the direct overlap estimator presented by Elben et. al.
 * [direct_prod](https://github.com/guerinileonardo/overlap/blob/main/direct_prod.py): compares the performance of our method with the direct overlap estimator presented by Elben et. al.
+* [tools](https://github.com/guerinileonardo/overlap/blob/main/tools.py): toolbox used in all others, mostly about the LPDO paradigm.
