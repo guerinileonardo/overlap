@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 10 16:19:18 2020
-
-@author: leo
+Toolbox for noisy circuit simulation and overlap estimation.
 """
 
 import numpy as np
